@@ -1,0 +1,120 @@
+Introducción
+***Clase 1 Lo que aprenderás sobre los fundamentos de testing***
+
+
+
+Principios de las pruebas
+***Clase 2 ¿Qué son las pruebas y por qué deberíamos hacerlas?***
+
+
+
+***Clase 3 Proceso de pruebas del software y los estándares internacionales***
+
+
+
+***Clase 4 Ciclo de vida del software***
+
+
+
+***Clase 5 Proceso de pruebas del software: Calidad y Defectos***
+
+
+
+***Clase 6 Principios del testing moderno***
+
+
+
+***Clase 7 Especialidades del testing***
+
+
+
+Testing
+***Clase 8 Presupuesto, Recursos, Tiempo y Actividades Clave***
+
+
+
+***Clase 9 Estrategia de pruebas***
+
+
+
+***Clase 10 Testing en desarrollo de software***
+
+
+
+***Clase 11 Testing ágil***
+
+
+
+***Clase 12 Niveles de pruebas***
+
+
+
+***Clase 13 Tipos de pruebas***
+
+
+
+***Clase 14 Pruebas estáticas y dinámicas***
+
+
+
+***Clase 15 Definición y diseño de pruebas***
+
+
+
+Gestión, monitoreo y control
+***Clase 16 Caja Blanca, Gris y Negra***
+
+
+
+***Clase 17 Gestión, monitoreo y control: Monitoreo y Seguimiento***
+
+
+
+***Clase 18 Roles y Responsabilidades***
+
+
+
+***Clase 19 Roles y Responsabilidades en acción***
+
+
+
+Gestión de bugs
+***Clase 20 Ejercicios***
+
+
+
+***Clase 21 Retrabajo***
+
+
+
+***Clase 22 Sistema de seguimiento de bugs***
+
+
+
+***Clase 23 Defectos y sugerencias***
+
+
+
+Depuración
+***Clase 24 ¿Qué es la depuración?***
+
+
+
+***Clase 25 Pruebas de verificación***
+
+
+
+***Clase 26 Técnicas de depuración***
+
+
+
+Bases de la automatización de pruebas
+***Clase 27 Automatización de pruebas***
+
+
+
+***Clase 28 Gherkin***
+
+
+
+***Clase 29 Cierre del curso***
